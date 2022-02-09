@@ -39,5 +39,5 @@ void loop() {
   //Serial.print("Distance (inch): ");
   //Serial.println(distanceInch);
   
-  delay(1000);
+  delay(900);
 }
