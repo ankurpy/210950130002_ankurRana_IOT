@@ -30,5 +30,5 @@ void loop(){
  pirState = LOW;
  }
  }
- //delay(500);
+ //delay(400);
 }
